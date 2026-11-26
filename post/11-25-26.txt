@@ -1,4 +1,20 @@
-# Hey is this working?
+# First post, some basic information and where we're at now.
 
-Yeah this is a test I guess.
-Hello.
+Yeah so this is my first post on the blog section of the website. I'm one of the devs for the continuation of ALP (AvatarLockpick) and I just wanted to say hi and welcome to the BLOG, nothing much lives here besides updates and maybe rants, tutorials and other stuff.
+
+Alright now let's get to the important stuff, updates will be rolled out randomly and are never set at a specific time. Could be one in a day or maybe a month, it depends on how things go.
+
+Avatar creators are AWARE of this tool/app more and more avatars are being obfuscated or using "confusers" in a sense. Basically they will scramble their animation parameters and their names to make this software unaware of the locking mechanism. There is literally NO way of combatting this besides making a ripping tool/program (we don't do that). But hey most avatar creators don't care enough to do this so majority of the avatars can and will be unlocked.
+
+They are some rumors of the software being against TOS and rumors of it being malicious or dangerous. That is simply NOT correct. For one this software is NOT touching the game and is only touching text files in your appdata, that's literally it. Secondly you can put this program in Virus Total OR run a scan with MS Defender. If you are too lazy here are our VT (Virus Total) results: https://www.virustotal.com/gui/file/f1f5e47233eb1aa3cdbfe988c692c5b29d042be6a1417728d3759e5744612e60 | https://www.virustotal.com/gui/file/d6521db5570adde02aed6470ac50a37e019f9b4e3487d8b6cd466b6288899e84
+
+A creator that has been getting mentioned is "FufflyArti". Yes they have protected FX layers/Anim layers but their older avatars are unlockable. However if someone really wanted to they can be ripped. (WE HOWEVER DO NOT DO THAT)
+
+According to my analytics we still have an ESTIMATE of 90% success rate on unlocking and working on a MAJORITY of avatars.
+
+# Update for December
+
+We may have an update schedule for December. It's mostly just quality of life and bug fixes.
+
+# Bye bye
+Thank you for reading, Buh-Byeeeee!
