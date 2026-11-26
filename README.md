@@ -1,2 +1,2 @@
 # BlogHost
-This repo is used as a blog
+This repo is used as a blog.
